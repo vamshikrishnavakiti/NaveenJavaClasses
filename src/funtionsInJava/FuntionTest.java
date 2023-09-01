@@ -6,7 +6,7 @@ public class FuntionTest {
 	
 	public void main(String[] args) {
 		FuntionTest ft = new FuntionTest();
-		ft.getCityName("Hyderabad");
+		ft.getCityName("Rio");
 	
 		
 	}
